@@ -1,14 +1,14 @@
-/**
+/***
     @author-Samuel Bailey 
     CS-210 | Project Two Source Code REDO
     09-29-2020  
     This code was written in VS Code 
     The goal of this code was written to with the rubric of project two. The only thing that differs from the rubric 
-    is the ending, there is a loop implemented to keep the code going incase you would like to try multiple #'s.
-    This isn't against the rubric just something to add to the program. 
+    is the ending, there is a loop implemented to keep the code going incase you would like to try multiple numbers.
+    This isnt against the rubric just something to add to the program. 
     The code is mainly moderate size void functions. This makes the main code small and extremly easy to read.
-    The functions are void because they don't need to return anything we control the loop in main. 
-        **/
+    The functions are void because they dont need to return anything we control the loop in main. 
+        ***/
 
 //include statements to give basic funcionality to keyboard and display
 #include <iostream>
